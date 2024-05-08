@@ -1,5 +1,7 @@
 # Projects:
 
+# Certificates: 
+
 # 💫 About Me:
 📊 Enthusiastic about exploring Tableau, data science, and computer science through internships.<br>🌱 Eager to apply classroom learning to real-world projects.<br>🧠 Committed to growing skills in data analysis, visualization, and software development.<br>💼 Seeking opportunities to contribute and learn in dynamic workplace environments.
 
