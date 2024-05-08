@@ -1,3 +1,5 @@
+# Projects:
+
 # 💫 About Me:
 📊 Enthusiastic about exploring Tableau, data science, and computer science through internships.<br>🌱 Eager to apply classroom learning to real-world projects.<br>🧠 Committed to growing skills in data analysis, visualization, and software development.<br>💼 Seeking opportunities to contribute and learn in dynamic workplace environments.
 
@@ -8,7 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=NightstarReaper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NightstarReaper&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NightstarReaper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# Projects
 ---
 [![](https://visitcount.itsvg.in/api?id=NightstarReaper&icon=0&color=0)](https://visitcount.itsvg.in)
 
